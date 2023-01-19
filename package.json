@@ -20,6 +20,7 @@
     "link": "^1.5.0",
     "native-base": "^3.4.7",
     "node-csv": "^0.1.2",
+    "node-fetch": "^2.6.8",
     "react": "17.0.2",
     "react-avatar": "^5.0.1",
     "react-d3-speedometer": "^1.0.2",
